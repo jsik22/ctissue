@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ctissue.svg" alt="CTiSSUE — Cyber Threat Intelligence Search System for Unseen Exposure" width="420">
+  <img src="assets/ctissue.png" alt="CTiSSUE — Cyber Threat Intelligence Search System for Unseen Exposure" width="600">
 </p>
 
 ---
