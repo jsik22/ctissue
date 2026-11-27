@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="assets/ctissue.png" alt="CTiSSUE — Cyber Threat Intelligence Search System for Unseen Exposure" width="600">
+  <img src="assets/ctissue.png" alt="C.TiSSUE — Cyber Threat Intelligence Search System for Unseen Exposure" width="600">
 </p>
 
 ---
 
 ## 소개
 
-<strong>CTiSSUE</strong>는 숨은 노출을 찾는 사이버 위협 인텔리전스 검색 시스템(**C**yber **T**hreat **I**ntelligence **S**earch **S**ystem for **U**nseen **E**xposure)입니다. 여러 공개 정보에서 사이버 위협 관련 정보를 **검색하고, 수집하고, 가시화**하기 위한 개인 연구 프로젝트입니다.
+<strong>C.TiSSUE</strong>는 숨은 노출을 찾는 사이버 위협 인텔리전스 검색 시스템(**C**yber **T**hreat **I**ntelligence **S**earch **S**ystem for **U**nseen **E**xposure)입니다. 여러 공개 정보에서 사이버 위협 관련 정보를 **검색하고, 수집하고, 가시화**하기 위한 개인 연구 프로젝트입니다.
 
-또한 CTiSSUE는 이름에서와 같이 아래 세 가지 주제를 함께 다룹니다.
+또한 C.TiSSUE는 이름에서와 같이 아래 세 가지 주제를 함께 다룹니다.
 
 <p align="center">
   <img src="assets/cti-cards.svg" alt="CTI — Cyber Threat Intelligence · Tissue — 조직·얽힌 구조·연결 · Issue — 사이버 이슈·사건·동향" width="720">
@@ -20,7 +20,7 @@
 
 ## 조사 노트
 
-CTiSSUE로 살펴본 사건 정리는 노트 사이트에 올립니다.
+C.TiSSUE로 살펴본 사건 정리는 노트 사이트에 올립니다.
 
 **https://jsik22.github.io/cybertissue-notes/**
 
@@ -38,7 +38,7 @@ CTiSSUE로 살펴본 사건 정리는 노트 사이트에 올립니다.
 조사 요청 (도메인 · IOC · 키워드 · 이슈)
            │
            ▼
-   Claude Code + CTiSSUE
+   Claude Code + C.TiSSUE
    범위 확인 · 조회 계획
            │
            ▼
@@ -56,7 +56,7 @@ CTiSSUE로 살펴본 사건 정리는 노트 사이트에 올립니다.
 
 ## 사용 범위 및 데이터 취급
 
-CTiSSUE는 **공개 정보 검색과 허용된 읽기 전용 조회**를 지향합니다. 공격·침투·인증 우회 도구가 아닙니다.
+C.TiSSUE는 **공개 정보 검색과 허용된 읽기 전용 조회**를 지향합니다. 공격·침투·인증 우회 도구가 아닙니다.
 
 - 공격적인 포트 스캔이나 취약점 악용은 수행 범위에 포함하지 않습니다.
 - 로그인 기반 소스는 해당 서비스의 규칙과 적용 법률을 따르며, 사람의 인증이 필요한 작업을 자동 우회하지 않습니다. 게시·댓글·메시지 작성은 하지 않습니다.
@@ -69,5 +69,5 @@ CTiSSUE는 **공개 정보 검색과 허용된 읽기 전용 조회**를 지향�
 
 ---
 
-<p align="center"><sub>CTiSSUE · Cyber Threat Intelligence Search System for Unseen Exposure</sub></p>
+<p align="center"><sub>C.TiSSUE · Cyber Threat Intelligence Search System for Unseen Exposure</sub></p>
 <p align="center"><sub>로고의 글자는 Inter(SIL Open Font License 1.1, © The Inter Project Authors)의 윤곽선입니다.</sub></p>
