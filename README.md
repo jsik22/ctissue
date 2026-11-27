@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cybertissue.svg" alt="CTiSSUE — Cyber Threat Intelligence Search System for Unseen Exposure" width="420">
+  <img src="assets/ctissue.svg" alt="CTiSSUE — Cyber Threat Intelligence Search System for Unseen Exposure" width="420">
 </p>
 
 ---
@@ -26,7 +26,7 @@ CTiSSUE로 살펴본 사건 정리는 노트 사이트에 올립니다.
 
 ## 주요 특징
 
-- **다중 소스 조회:** CT 로그, Passive DNS, 유출 사건 정보, 랜섬웨어 추적 정보, 공개 Telegram 채널, IOC 평판 등을 조사합니다.
+- **다중 소스 조회:** CT 로그, Passive DNS, 유출 사건 정보, 랜섬웨어 추적 정보, 공개 Telegram 채널, IOC 평판 등 여러 공개 소스를 함께 조사합니다.
 - **에이전트 중심 워크플로:** Claude Code가 조사 범위를 읽고 조회 결과를 요약합니다. 소스별 조회 도구는 판단 대신 데이터 조회와 표준 형식 반환에 집중합니다.
 - **커버리지 기록:** 결과가 없었던 소스, 조회에 실패한 소스, 키·세션 부족으로 건너뛴 소스를 구분합니다. "결과 없음"은 그 소스에서 찾지 못했다는 뜻이지 노출이 없다는 뜻이 아닙니다.
 - **회차별 비교:** 같은 주제를 반복 조회하고 이전 회차와 달라진 점을 확인합니다.
@@ -52,7 +52,7 @@ CTiSSUE로 살펴본 사건 정리는 노트 사이트에 올립니다.
            └── 텍스트 보고서
 ```
 
-결과는 **위협의 확정 판정이 아니라 조사 가능한 단서**입니다. 소스에 게시물이 있다는 사실과 게시물의 내용이 사실이라는 것은 구분합니다.
+결과는 **위협의 확정 판정이 아니라 조사 가능한 단서**입니다. 게시물이 있다는 사실과 그 내용이 사실이라는 것은 구분합니다.
 
 ## 사용 범위 및 데이터 취급
 
